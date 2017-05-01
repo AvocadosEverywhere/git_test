@@ -1,0 +1,1 @@
+This is AvocadosEverywhere's first git project.
